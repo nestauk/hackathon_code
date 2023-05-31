@@ -2,6 +2,8 @@
 
 We have set up this Github repo, to store code generated from Nesta and BIT's hackathons, Exploration Weeks and other exploratory activities.
 
+Note that this repo is public.
+
 ## Adding code for my project:
 
 1. Clone the repo
